@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298027527036",
+    "project_id": "meetdashesrtfcl",
+    "storage_bucket": "meetdashesrtfcl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298027527036:android:a7aafc9fce02353856d2f9",
+        "android_client_info": {
+          "package_name": "com.example.meet_dashes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWHIJybsYeCObGmd522oWnMD2LtGBgFAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
